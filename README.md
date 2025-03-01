@@ -1,11 +1,10 @@
 <h1 align="center">Hello 👋, I'm Muhammad Zain</h1>
 <h3 align="center">A passionate Artificial Intelligence student</h3>
 
-- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MZain3028](https://github.com/MZain3028)
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, Machine Learning, Computer vision**
 
 - 📫 How to reach me **mohhamadzain9@gmail.com**
 
